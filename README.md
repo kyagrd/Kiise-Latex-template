@@ -1,6 +1,9 @@
 # 한국정보과학회 학회 논문 Latex tamplate #
 
 ----------
+@leejaymin 님꺼 fork해왔음
+
+----------
 
 한국정보과학회 학술대회인
 	- Korea Computer Congress (KCC): http://www.kiise.or.kr/academy/main/main.fa
