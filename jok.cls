@@ -38,7 +38,7 @@
 
 % caption style
 \usepackage[nooneline,normal]{caption}
-\setlength{\captionmargin}{30pt}
+\setlength{\captionmargin}{15pt}
 
 \captionsetup[figure]{labelsep=space}
 \captionsetup[table]{labelsep=space}
